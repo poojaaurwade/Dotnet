@@ -1,0 +1,5 @@
+D:\Pooja\Shape\Shape\obj\Debug\net6.0\Shape.csproj.AssemblyReference.cache
+D:\Pooja\Shape\Shape\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pooja\Shape\Shape\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+D:\Pooja\Shape\Shape\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+D:\Pooja\Shape\Shape\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
