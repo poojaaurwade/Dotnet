@@ -1,0 +1,15 @@
+D:\Pooja\Weeks\Weeks\bin\Debug\net6.0\Weeks.exe
+D:\Pooja\Weeks\Weeks\bin\Debug\net6.0\Weeks.deps.json
+D:\Pooja\Weeks\Weeks\bin\Debug\net6.0\Weeks.runtimeconfig.json
+D:\Pooja\Weeks\Weeks\bin\Debug\net6.0\Weeks.dll
+D:\Pooja\Weeks\Weeks\bin\Debug\net6.0\Weeks.pdb
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\Weeks.csproj.AssemblyReference.cache
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\Weeks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\Weeks.AssemblyInfoInputs.cache
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\Weeks.AssemblyInfo.cs
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\Weeks.csproj.CoreCompileInputs.cache
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\Weeks.dll
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\refint\Weeks.dll
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\Weeks.pdb
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\Weeks.genruntimeconfig.cache
+D:\Pooja\Weeks\Weeks\obj\Debug\net6.0\ref\Weeks.dll
